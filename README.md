@@ -17,3 +17,6 @@ Installation Steps can be found in the "Instructions to Run the Program.txt" fil
 
 Thank You.
 Group 1.
+
+Project Contributors:
+@HVEPYC
