@@ -1,4 +1,4 @@
-<u>WIA1002 Data Structures Project Title: Facemash</u>
+<u>Data Structures Project Titled "Facemash"</u>
 =======================================================
 
 Created by Group 1, OCC 10 of WIA1002 Data Structures, Semester 2, Year 2022/23
